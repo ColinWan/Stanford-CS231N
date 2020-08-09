@@ -1,6 +1,6 @@
 # CS231N-2019
 
-My solutions for while auditing CS224N 2019. \\
+My solutions for while auditing CS224N 2019. //
 Computer vision and Convolutional Neural Networks
 
 ## Course links
