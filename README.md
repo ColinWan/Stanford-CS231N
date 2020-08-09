@@ -1,7 +1,6 @@
 # CS231N-2019
 
-My solutions for while auditing CS224N 2019.  
-Computer vision and Convolutional Neural Networks
+My solutions for the assignments while auditing CS224N (Computer vision and Convolutional Neural Networks) 2019.  
 
 ## Course links
 - Course page [CS231N](http://cs231n.stanford.edu/)
